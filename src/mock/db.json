@@ -1,0 +1,113 @@
+{
+  "categories" : [
+      {
+        "id":1, 
+        "name":"TV"
+      },
+      {
+        "id":2, 
+        "name":"Phụ Kiện"
+      },
+      {
+        "id":3, 
+        "name":"Latop"
+      },
+      {
+        "id":4, 
+        "name":"Máy Bàn"
+      }
+    ],
+    "products": [
+        {
+            "id":1,
+            "name":"LG",
+            "price":1000,
+            "categoryid":1,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }     
+            ]
+        },
+        {
+            "id":2,
+            "name":"TCL",
+            "price":1000,
+            "categoryid":2,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Sạc dự phòng Xioami",
+            "price":1000,
+            "categoryid":2,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+              
+            ]
+        },
+        {
+            "id":4,
+            "name":"Loa JBL Go 2",
+            "price":1000,
+            "categoryid":1,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+            ]
+        },
+        {
+            "id":5,
+            "name":"Dell 3568",
+            "price":1000,
+            "categoryid":3,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+              
+            ]
+        },
+        {
+            "id":6,
+            "name":"MSI Asus",
+            "price":1000,
+            "categoryid":3,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+            ]
+        },
+        {
+            "id":7,
+            "name":"DELL",
+            "price":1000,
+            "categoryid":4,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+              
+            ]
+        },
+        {
+            "id":8,
+            "name":"MSI",
+            "price":1000,
+            "categoryid":4,
+            "images":[
+              {
+              "url":"https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg"
+              }
+            ]
+        }
+      ]
+}
